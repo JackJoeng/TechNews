@@ -1,8 +1,6 @@
 # Introducing TechNews
 
-##Overview
-
-TechNews is a scraper app which captures tech news from The New York Times. It allows users view, save, and leave comments/notes on the latest tech news.
+## Overview
 
 ![](public/assets/img/technews.png)
 
@@ -18,13 +16,14 @@ TechNews is a scraper app which captures tech news from The New York Times. It a
 [Check It Out](http://nyttechnews.herokuapp.com/).
 
 ## Technologies used:
-* Node.js
-* Express.js
-* MongoDB
-* Mongoose
-* Handlebars.js
 * NPM modules:
   * Cheerio
   * Request-Promise
   * Serve-Favicon
   * Morgan
+  
+* Node.js
+* Express.js
+* MongoDB
+* Mongoose
+* Handlebars.js
